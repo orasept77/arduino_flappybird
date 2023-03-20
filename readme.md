@@ -1,4 +1,4 @@
-FlappyBird Arduino  for 128x128 lcd
+FlappyBird Arduino  for 128x128 lcd for Arduino Day 2022
 
 SPI.h - https://github.com/PaulStoffregen/SPI/blob/master/SPI.h
 
