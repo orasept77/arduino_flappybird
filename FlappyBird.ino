@@ -2,6 +2,7 @@
 #include <Adafruit_SSD1351.h>
 #include <SPI.h>
 
+
 // OLED spi  
 #define SCLK_PIN 2
 #define MOSI_PIN 3
